@@ -1,0 +1,18 @@
+<environment>
+
+    <object position="min 640 350 0" orientation="0 10 100" shape="cuboid 50 900 4"
+            material="forest" fill-color="36 186 50" opacity="0.8"/> 
+    <object position="min 780 350 0" orientation="0 10 -100" shape="cuboid 50 900 4"
+            material="forest" fill-color="36 186 50" opacity="0.8"/>   
+            
+    <object position="min 440 150 0" orientation="0 10 100" shape="cuboid 50 900 4"
+            material="forest" fill-color="36 186 50" opacity="0.8"/> 
+    <object position="min 580 150 0" orientation="0 10 -100" shape="cuboid 50 900 4"
+            material="forest" fill-color="36 186 50" opacity="0.8"/>   
+            
+    <object position="min 840 50 0" orientation="0 10 100" shape="cuboid 50 900 4"
+            material="forest" fill-color="36 186 50" opacity="0.8"/> 
+    <object position="min 980 50 0" orientation="0 10 -100" shape="cuboid 50 900 4"
+            material="forest" fill-color="36 186 50" opacity="0.8"/>   
+            
+</environment>
